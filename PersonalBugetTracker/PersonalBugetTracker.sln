@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PersonalBugetTracker", "PersonalBugetTracker.pyproj", "{1E4EE656-A2FB-4F67-89BC-69984623BA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4EE656-A2FB-4F67-89BC-69984623BA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4EE656-A2FB-4F67-89BC-69984623BA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE79077-921C-442F-9A00-D2D338340CF5}
+	EndGlobalSection
+EndGlobal
