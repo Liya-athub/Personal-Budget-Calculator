@@ -10,7 +10,7 @@ This project demnstrates basic Pyhon programming concepts applied to a budgeting
 - Provides budget states as within or over budget
 
 ## Technologies used
--Pthon
+- Python
 - Microsoft Visual studio
 
 ## Design Notes
@@ -19,4 +19,5 @@ The application was designed to simulate financial tracking using basic programm
 ## Future Improvements
 - Data export(CSV OR spreadsheet)
 - Monthly and yearly history.
+- GUI
 - Conversion to install ready app
