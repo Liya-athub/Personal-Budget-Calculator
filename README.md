@@ -12,7 +12,10 @@ This project demnstrates basic Pyhon programming concepts applied to a budgeting
 ## Technologies used
 - Python
 - Microsoft Visual studio
-
+  
+## Screenshots
+![output](PersonalBugetTracker/Screenshots/Output.png)
+![Over budget warning](PersonalBugetTracker/Screenshots/OutputWarning.png)
 ## Design Notes
 The application was designed to simulate financial tracking using basic programming logic, including loops, conditions and data structure.
 
